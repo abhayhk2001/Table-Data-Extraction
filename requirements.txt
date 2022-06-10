@@ -1,0 +1,6 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+matplotlib==3.2.2
+opencv-contrib-python==4.4.0.46
+pytesseract==0.3.4
+Werkzeug==1.0.1
